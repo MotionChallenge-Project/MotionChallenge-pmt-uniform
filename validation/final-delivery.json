@@ -1,0 +1,13 @@
+{
+  "model": "pmt-uniform",
+  "status": "passed",
+  "errors": [],
+  "core_commit": "2221fab60a90adc3c85b1dfd438e00244fb58263",
+  "runtime_sha256": "82e8c944d225fd0450634207d33b4a4561de62b846cf1eeaa7f7935fae7b7917",
+  "locked_environment_and_cli": true,
+  "own_core_import": "/mnt/volumes/nexus-train-bd-ga/swd/motionchallenge-mjwarp/MotionChallenge-pmt-uniform/MotionChallenge-Core/src/motion_challenge/__init__.py",
+  "admission_and_source_hashes": true,
+  "modules": [
+    "evaluate"
+  ]
+}
